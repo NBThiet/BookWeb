@@ -1,0 +1,18 @@
+.flex_book_home {
+    max-height: 90vh;
+    width: 85vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1vh;
+}
+
+.book {
+    text-align: center;
+    min-width: 80px;
+    width: 12vw;
+    margin-left: 2vw;
+    margin-top: 5vh;
+}
+.book_image {
+    margin-bottom: 5px;
+}

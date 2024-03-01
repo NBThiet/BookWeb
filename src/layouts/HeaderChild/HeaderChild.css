@@ -1,0 +1,43 @@
+.flex_header {
+    position: relative;
+    margin-left: 0;
+    justify-content: space-between;
+    align-self: center;
+    max-height: 100%;
+}
+.box_title_header {
+    width: 10%;
+    align-self: center;
+    margin-left: 10px;
+    text-align: center;
+}
+.title_header {
+    color: rgb(230, 61, 61);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+        sans-serif;
+}
+.searchInput {
+    margin-top: 0.5rem;
+    width: 40%;
+    color: rgb(188, 184, 194);
+}
+.boxIcon_Header {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: flex-end;
+    width: 10%;
+    min-width: 80px;
+    color: #ffff;
+    margin-right: 10px;
+}
+.BellOutlined {
+    font-size: 1.5rem;
+    margin-right: 20px;
+}
+.Avatar {
+}
+.IconAvatar {
+    font-size: 1.5rem;
+}

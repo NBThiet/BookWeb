@@ -1,0 +1,11 @@
+.boxSider {
+    width: 100%;
+    margin-top: 20px;
+}
+.menuSider {
+    background-color: rgb(4, 2, 27);
+}
+.ant-layout-sider-children {
+    background-color: rgb(4, 2, 27);
+    border-radius: 5px;
+}
